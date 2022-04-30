@@ -8,6 +8,16 @@ All the functions in the dictionary are managed by the English Dictionary App. A
 ## Outcome of the Project
 In this project, I will developed a english dictionary app that will help us in performing various functions like Add a new word, Find the meaning, Update a word and Exit. It will also store the word and its meaning.  
 
+## Functions
+###  Add, Find, Update, Exit
+ 
+1. Add a new word : Add the new words in the app.
+2. Find the meaning : Find the meaning of the word.
+3. Update a word : Update the existing word.
+4. Exit : Exit from the dictionary app.
+
 ![Screenshot (58)](https://user-images.githubusercontent.com/88077075/166106216-2dfd3fbd-5696-431c-a2ce-78bdf2dbd00f.png)
 
 ![Screenshot (59)](https://user-images.githubusercontent.com/88077075/166106229-89627139-62f2-4ec1-b4bf-406df47e0412.png)
+
+ 
